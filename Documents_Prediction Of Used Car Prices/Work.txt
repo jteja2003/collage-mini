@@ -1,0 +1,38 @@
+Service Provider
+
+Login,
+Train & Test Used Car Data Sets, 
+View Trained Accuracy in Bar Chart, 
+View Trained Accuracy Results, 
+View Used Car Prices Type, 
+Find Used Car Prices Type Ratio, 
+Download Predicted Datasets, 
+View Used Car Prices Type Ratio Results, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT USED CAR PRICE TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+RID,
+Car_Name,
+Location,
+Car_Year,
+kilometer,
+Fuel_Type,
+Transmission,
+Owner_Type,
+Mileage,
+Engine,
+Power,
+Seats,
+Prediction.
+
+
+
