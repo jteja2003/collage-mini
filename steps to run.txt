@@ -1,0 +1,14 @@
+1)open Xampp and start all the actions 
+2) now click on admin beside MYSQL
+3)go to import ->choose the required data base file -> import
+[if error occured]
+go to operations ->drop the data base then repeat step 3
+4)go to the path C:\Users\ADMIN\OneDrive\Desktop\Used_Car_Price_Prediction\used_car_price_prediction
+5)open cmd there 
+6)enter this command " py manage.py runserver "
+7) then click on the ip addres or link generated in cmd
+8) the website will open 
+   servise provider login:Admin pass:Admin
+   for user login:Admin pass:Admin[if not able to access it create new one]
+
+
